@@ -3,7 +3,7 @@ Hello! I am Ravinder Yadav.<br>
 I am a passionate Web Developer who loves building modern, responsive, and user-friendly websites.<br><br>
 
 I have hands-on experience with HTML, CSS, JavaScript, Bootstrap, React.js, Node.js, Express.js, and MongoDB.<br>
-I enjoy creating clean and attractive UI designs and converting ideas or designs into real, fully functional web applications.<br><br>
+I enjoy creating clean and attractive UI designs and converting ideas or designs into real, Fully functional web applications.<br><br>
 
 I am always eager to learn new technologies and continuously improve my skills to stay updated in the ever-evolving tech world.<br><br>
 
